@@ -1,0 +1,11 @@
+初次安装git需要配置用户名和邮箱，否则git会提示：
+please tell me who you are.
+
+你需要运行命令来配置你的用户名和邮箱：
+$ git config --global user.name "superGG1990"
+$ git config --global user.email "superGG1990@163.com"
+注意：（引号内请输入你自己设置的名字，和你自己的邮箱）
+此用户名和邮箱是git提交代码时用来显示你身份和联系方式的，
+并不是github用户名和邮箱
+
+---笔记本电脑提交
